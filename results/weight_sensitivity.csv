@@ -1,0 +1,13 @@
+feature,factor,images_changing_band
+vessel_density,0.8,3
+vessel_density,1.2,1
+tortuosity,0.8,0
+tortuosity,1.2,4
+branch_points,0.8,0
+branch_points,1.2,2
+glcm_contrast,0.8,2
+glcm_contrast,1.2,1
+glcm_homogeneity,0.8,0
+glcm_homogeneity,1.2,0
+glcm_energy,0.8,1
+glcm_energy,1.2,0

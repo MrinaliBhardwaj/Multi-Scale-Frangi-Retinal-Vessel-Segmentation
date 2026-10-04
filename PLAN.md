@@ -1,3 +1,5 @@
+> Status: implemented — see README.md for how to run and the results. This was the initial plan.
+
 # Project Plan — Multi-Scale Frangi Vessel Segmentation + Rule-Based Fusion for Explainable DR Risk
 
 DIP (BCSE403L) course project, Review I topic by Aviral Chaubey (23BCE0566).
