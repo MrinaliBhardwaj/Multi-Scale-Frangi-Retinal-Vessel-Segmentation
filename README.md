@@ -1,6 +1,6 @@
 # Multi-Scale Frangi Retinal Vessel Segmentation with Rule-Based Structural–Texture Fusion for Explainable DR Risk
 
-DIP course project (BCSE403L, Fall 2026-27) by Aviral Chaubey (23BCE0566).
+DIP course project (BCSE403L, Fall 2026-27).
 
 The pipeline is training-free and runs on a CPU (~0.5 s per image). It takes a colour fundus photograph and produces:
 
